@@ -1,0 +1,107 @@
+.tt {
+    background-color: lightgrey; 
+ }
+
+ .name{
+ 	text-decoration: red;
+    display: block;
+    font-size: 3.17em!important;
+    margin-block-start: unset!important;
+    margin-block-end: unset!important;
+ /*   margin-inline-start: 0px;
+    margin-inline-end: 0px;*/
+    /*font-weight: bold;*/
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px 2px black	
+    margin: unset;
+ }
+
+ .container{
+ 	display: flex;
+ }
+
+.yvonne{
+	text-align: center;
+}
+
+.stacy{
+	text-align: center;
+}
+
+p{
+	text-align: left;
+	font-family: sans-serif;
+    }
+
+.btn{
+	display: inline-block;
+	border: none;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 4px;
+	color: white;
+	background-color: red;
+	width: 445px;
+	height: 50px;
+
+}
+body{
+	margin-top: 0px!important;
+}
+
+.img-col, .bio{
+	margin: 16px;
+}
+.inside-row{
+	/*text-align: center;*/
+	border: 2px solid red;
+	margin: 10px;
+	padding: 8px;
+	border-radius: 5px;
+}
+
+#my-form{
+	width: 100%;
+
+}
+
+#head{
+	text-decoration: red;
+    display: block;
+    font-size: 2.17em!important;
+    margin-block-start: unset!important;
+    margin-block-end: unset!important;
+ /*   margin-inline-start: 0px;
+    margin-inline-end: 0px;*/
+    /*font-weight: bold;*/
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px 2px black	
+    margin: unset;
+}
+
+label{
+	width: 250px;
+	margin-right: 20px;
+	font-weight: bold;
+	color: green;
+}
+
+input{
+	margin: 0.5%;
+	height: 30px;
+	width: 250px;
+}
+.form-group{
+	text-align: left;
+}
+
+.form-put{
+margin left: 20px
+} 
+
